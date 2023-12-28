@@ -1,0 +1,10 @@
+## Interface: 100105
+## Title: Fauxcus
+## Author: vendethiel
+## Version: v1.52.08
+## Dependencies: Scorpio
+## SavedVariables: FauxcusDB
+## SavedVariablesPerCharacter: FauxcusCharDB
+
+Spells.lua
+Fauxcus.lua
